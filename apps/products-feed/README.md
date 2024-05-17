@@ -2,7 +2,6 @@
   <h1>Products feed</h1>
 </div>
 
-
 <div align="center">
   <p>Share products data with the feed aggregators</p>
 </div>
